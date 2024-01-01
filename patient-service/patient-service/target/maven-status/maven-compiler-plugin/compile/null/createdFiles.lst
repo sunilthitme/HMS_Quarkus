@@ -1,0 +1,4 @@
+org\hms\dao\PatientRepository.class
+META-INF\panache-archive.marker
+org\hms\resource\PatientResource.class
+org\hms\entity\Patient.class
