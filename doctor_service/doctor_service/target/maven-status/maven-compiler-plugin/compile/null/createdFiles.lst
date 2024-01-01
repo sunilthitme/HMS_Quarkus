@@ -1,0 +1,4 @@
+org\hms\entity\Doctor.class
+org\hms\dao\DoctorRepository.class
+org\hms\resource\DoctorResource.class
+META-INF\panache-archive.marker
